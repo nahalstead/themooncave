@@ -7406,7 +7406,7 @@ body {
   font-size: 15px; }
   .btn.btn-primary {
    /* box-shadow: 0 8px 16px rgba(29, 233, 182, 0.3); */
-   /* transition: all .2s ease-out; } */
+    transition: all .2s ease-out; } 
     .btn.btn-primary:hover {
       box-shadow: 0 8px 20px rgba(29, 233, 182, 0.35); }
     .btn.btn-primary:active {
