@@ -466,7 +466,24 @@ pre {
       max-width: 540px; } }
   @media (min-width: 768px) {
     .container {
-      max-width: 720px; } }
+      max-width: 720px; } 
+    .pb-7, .py-7 {
+      padding-bottom: 20rem !important;
+    }
+    .pt-7, .py-7 {
+      padding-top: 8rem !important;
+    }
+    .bg-hero {
+      background-attachment: fixed;
+      background-size: cover;
+      position: relative;
+      background-position-x: center;
+    }
+    h1, .h1 {
+      font-size: 3rem;
+      margin-bottom: 10rem;
+    } 
+  }
   @media (min-width: 992px) {
     .container {
       max-width: 960px; } }
