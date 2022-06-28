@@ -1391,6 +1391,12 @@ pre {
       font-size: 3rem;
       margin-bottom: 10rem;
     } 
+    .col-md-4 {
+    margin-bottom: 4rem;
+    }
+    h2, .h2 {
+  font-size: 2rem;
+  }
   .table-responsive-md {
     display: block;
     width: 100%;
