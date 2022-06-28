@@ -467,22 +467,6 @@ pre {
   @media (min-width: 768px) {
     .container {
       max-width: 720px; } 
-    .pb-7, .py-7 {
-      padding-bottom: 20rem !important;
-    }
-    .pt-7, .py-7 {
-      padding-top: 8rem !important;
-    }
-    .bg-hero {
-      background-attachment: fixed;
-      background-size: cover;
-      position: relative;
-      background-position-x: center;
-    }
-    h1, .h1 {
-      font-size: 3rem;
-      margin-bottom: 10rem;
-    } 
   }
   @media (min-width: 992px) {
     .container {
@@ -490,6 +474,8 @@ pre {
   @media (min-width: 1200px) {
     .container {
       max-width: 1140px; } }
+
+
 
 .container-fluid {
   width: 100%;
@@ -1389,6 +1375,22 @@ pre {
       border: 0; } }
 
 @media (max-width: 767.98px) {
+  .pb-7, .py-7 {
+      padding-bottom: 20rem !important;
+    }
+    .pt-7, .py-7 {
+      padding-top: 8rem !important;
+    }
+    .bg-hero {
+      background-attachment: fixed;
+      background-size: cover;
+      position: relative;
+      background-position-x: center;
+    }
+    h1, .h1 {
+      font-size: 3rem;
+      margin-bottom: 10rem;
+    } 
   .table-responsive-md {
     display: block;
     width: 100%;
