@@ -7877,3 +7877,12 @@ footer h5 {
 @media screen and (max-width: 768px) {
   .switcher-wrap {
     display: none; } }
+
+/* Temp Instagram styles */
+/* .heading-black .img-fluid.rounded.d-block.mx-auto {
+  max-width: 71%;
+  margin-bottom: 52vh;
+}
+.btn.btn-primary.d-inline-flex.flex-row.align-items-center {
+  display: none !important;
+} */
