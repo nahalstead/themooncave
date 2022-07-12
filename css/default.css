@@ -7878,6 +7878,10 @@ footer h5 {
   .switcher-wrap {
     display: none; } }
 
+.card h5 {
+  min-height: 4rem;
+}
+
 /* Temp Instagram styles */
 /* .heading-black .img-fluid.rounded.d-block.mx-auto {
   max-width: 71%;
