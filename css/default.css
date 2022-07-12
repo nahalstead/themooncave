@@ -7876,7 +7876,10 @@ footer h5 {
 
 @media screen and (max-width: 768px) {
   .switcher-wrap {
-    display: none; } }
+    display: none; }
+    .card {
+  margin-bottom: 2rem;
+} }
 
 .card h5 {
   min-height: 4rem;
